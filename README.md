@@ -39,22 +39,15 @@ All data is stored in a text file (**pharmacy_records.txt**) to ensure persisten
 ┣ 📜 pharmacy_records.txt # Medicine records (auto-created)
 ┗ 📜 README.md # Documentation
 
-yaml
-Copy
-Edit
 
 ---
 
 ## ▶️ How to Run  
 
 1. **Compile the Code**  
-   ```bash
    g++ main.cpp -o pharmacy
 Run the Program
 
-bash
-Copy
-Edit
 ./pharmacy
 Usage
 
